@@ -47,7 +47,7 @@ When in the global scope, the value of "this" will be the window/console Object;
 Rule 2: Implicit Binding
 Whenever a preceding dot calls a function, the object before the dot is this.
 
-Rule 3 : New binding
+Rule 3: New binding
 Whenever we use a constructor function, this refers to the specific instance of the object that is created and returned by the constructor function.
 
 Rule 4: Explicit binding
